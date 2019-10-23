@@ -1,0 +1,3 @@
+MV Jurong Point,MVJP,1 Jurong West Central 2 Singapore 648886,10:00:00-23:00:00,09:00-01:00,3,Hall 1,Hall 2,Plantinum Hall
+MV Tampines Mall,MVTP,2 Tampines Central 2 Singapore 229210,10:00:00-22:00:00,09:00-01:00,3,Hall 1,Hall 2,Plantinum Hall
+MV VivoCity,MVVC,1 Harbourfront Walk Singapore 098585,10:00:00-23:00:00,09:00-01:00,3,Hall 1,Hall 2,Plantinum Hall
